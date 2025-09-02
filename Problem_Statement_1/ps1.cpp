@@ -60,5 +60,5 @@ int main(){
             }
         }
     }
-    cout<<"The decoded message is"<<msg<<endl;;
+    cout<<"The decoded message is"<<msg<<endl;
 }
